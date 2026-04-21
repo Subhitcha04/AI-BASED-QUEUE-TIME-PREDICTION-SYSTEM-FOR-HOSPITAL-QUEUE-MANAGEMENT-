@@ -268,7 +268,7 @@ If using this system in research, please cite:
 ```
 AI-Based Queue-Time Prediction and Smart Counter Allocation System
 Hospital Queue Management with Machine Learning
-2024
+2026
 ```
 
 ## 🤝 Contributing
@@ -279,10 +279,6 @@ Contributions welcome! Please:
 3. Commit changes
 4. Push to branch
 5. Create Pull Request
-
-## 📄 License
-
-MIT License - See LICENSE file for details
 
 ## 🎓 References
 
@@ -299,11 +295,11 @@ For questions or issues:
 - Review documentation in `/docs`
 - Check troubleshooting guide
 - Open GitHub issue
-- Contact: [your-email]
+- Contact: [subhitcha.s@gmail.com]
 
 ---
 
 **Built with** ❤️ **for improving hospital efficiency and patient experience**
 
 **Version**: 1.0.0  
-**Last Updated**: 2024
+**Last Updated**: 2026
